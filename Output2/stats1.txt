@@ -1,0 +1,9 @@
+RMSE 9.17798401144651
+Av. abs error 7.67548465682702
+Pearson correlation -0.137806460104184
+Spearman correlation -0.165662583139349
+i w_i 
+1 0
+2 0
+3 1.00000000000012
+4 0
